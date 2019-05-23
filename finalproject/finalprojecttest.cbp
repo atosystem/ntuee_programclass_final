@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="finalprojecttest" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/finalprojecttest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/finalprojecttest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../proj/untitled/Button.h" />
+		<Unit filename="../proj/untitled/Checkbox.h" />
+		<Unit filename="../proj/untitled/Form.h" />
+		<Unit filename="../proj/untitled/Game.h" />
+		<Unit filename="../proj/untitled/GameObj.h" />
+		<Unit filename="../proj/untitled/LTexture.h" />
+		<Unit filename="../proj/untitled/Label.h" />
+		<Unit filename="../proj/untitled/Scroll_List.h" />
+		<Unit filename="../proj/untitled/Scroll_List_A.h" />
+		<Unit filename="../proj/untitled/Scroll_List_item.h" />
+		<Unit filename="../proj/untitled/Slider.h" />
+		<Unit filename="../proj/untitled/Textbox.h" />
+		<Unit filename="../proj/untitled/frm_Login.h" />
+		<Unit filename="../proj/untitled/frm_ResetPassword.h" />
+		<Unit filename="../proj/untitled/frm_select_char.h" />
+		<Unit filename="../proj/untitled/frm_select_level.h" />
+		<Unit filename="../proj/untitled/frm_select_mode.h" />
+		<Unit filename="../proj/untitled/main.cpp" />
+		<Unit filename="../proj/untitled/myqueue.h" />
+		<Unit filename="characterinf.h" />
+		<Unit filename="enter.cpp" />
+		<Unit filename="levelinf.h" />
+		<Unit filename="main2.cpp" />
+		<Unit filename="musicmain.cpp" />
+		<Unit filename="picture.h" />
+		<Unit filename="steingate2.h" />
+		<Unit filename="texture.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,34 @@
+Riven
+blood_max 280
+physic_attack 150
+magic_attack 500
+specialskill 5 50 2 50  
+need 10 1000000 -1
+
+Clausius 
+blood_max 260
+physic_attack 110
+magic_attack 500
+specialskill 5 500 0 0 
+need 10 1000000 -1
+
+Ellie 
+blood_max 200
+physic_attack 80
+magic_attack 350
+specialskill 15 0 3 0 
+need 10 1000000 -1
+
+Lime 
+blood_max 265
+physic_attack 100
+magic_attack 550
+specialskill 10 0 2 200 
+need 10 1000000 -1
+
+Muse
+blood_max 270
+physic_attack 120
+magic_attack 550
+specialskill 20 100 0 0 
+need 10 1000000 -1

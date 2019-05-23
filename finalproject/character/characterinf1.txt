@@ -1,0 +1,4 @@
+maincharacter
+blood_max 100
+physic_attack 25
+magic_attack 10000

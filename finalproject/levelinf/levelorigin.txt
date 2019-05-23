@@ -1,0 +1,10 @@
+level 1
+music 		music/steingate.wav
+tempo 		tempo/test2.txt
+background 	picture/background/madoka.png
+enemy 		golbin
+goalkill 	001067
+bestkill 	0
+bestcombo 	0
+
+

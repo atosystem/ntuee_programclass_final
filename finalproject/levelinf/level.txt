@@ -1,0 +1,110 @@
+level 1
+music 		music/steingate.wav
+tempo 		tempo/test2.txt
+background 	picture/background/city.png
+enemy 		dragon
+goalkill 	3
+bestkill 0000
+bestcombo 0000
+
+level 2
+music 		music/sisternoise.wav
+tempo 		tempo/sisternoise.txt
+background 	picture/background/city.png
+enemy 		goblin
+goalkill 	10
+bestkill 0000
+bestcombo 0000
+
+
+level 3
+music 		music/steingate.wav
+tempo 		tempo/test2.txt
+background 	picture/background/city.png
+enemy 		devil
+goalkill 	2
+bestkill 0000
+bestcombo 0000
+
+
+
+
+level 4
+music 		music/steingate.wav
+tempo 		tempo/test2.txt
+background 	picture/background/city.png
+enemy 		devil_king
+goalkill 	1
+bestkill 0000
+bestcombo 0000
+
+
+level 5
+music 		music/steingate.wav
+tempo 		tempo/test2.txt
+background 	picture/background/city.png
+enemy 		devil
+goalkill 	6
+bestkill 0000
+bestcombo 0000
+
+level 6
+music 		music/steingate.wav
+tempo 		tempo/test2.txt
+background 	picture/background/city.png
+enemy 		goblin
+goalkill 	20
+bestkill 0000
+bestcombo 0000
+
+
+level 7
+music 		music/steingate.wav
+tempo 		tempo/test2.txt
+background 	picture/background/city.png
+enemy 		devil
+goalkill 	10
+bestkill 0000
+bestcombo 0000
+
+level 8
+music 		music/steingate.wav
+tempo 		tempo/test2.txt
+background 	picture/background/city.png
+enemy 		apollyon_clone
+goalkill 	1
+bestkill 0000
+bestcombo 0000
+
+
+
+level 9
+music 		music/steingate.wav
+tempo 		tempo/test2.txt
+background 	picture/background/city.png
+enemy 		apollyon_servant
+goalkill 	3
+bestkill 0000
+bestcombo 0000
+
+
+level 10
+music 		music/steingate.wav
+tempo 		tempo/test2.txt
+background 	picture/background/city.png
+enemy 		dragon
+goalkill 	6
+bestkill 0000
+bestcombo 0000
+
+
+level 11
+music 		music/steingate.wav
+tempo 		tempo/test2.txt
+background 	picture/background/city.png
+enemy 		apollyon
+goalkill 	1
+bestkill 0001
+bestcombo 0094
+
+

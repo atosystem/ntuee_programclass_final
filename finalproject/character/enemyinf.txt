@@ -1,0 +1,35 @@
+goblin
+enemy_blood_max 1258
+enemy_physic_attack 10
+enemy_magic_attack 0
+
+dragon
+enemy_blood_max 1000
+enemy_physic_attack 50
+enemy_magic_attack 0
+
+devil
+enemy_blood_max 1500
+enemy_physic_attack 60
+enemy_magic_attack 0
+
+devil_king
+enemy_blood_max 12500
+enemy_physic_attack 100
+enemy_magic_attack 0
+
+apollyon_servant
+enemy_blood_max 5000
+enemy_physic_attack 120
+enemy_magic_attack 0
+
+apollyon_clone
+enemy_blood_max 50000
+enemy_physic_attack 300
+enemy_magic_attack 0
+
+apollyon
+enemy_blood_max 380000
+enemy_physic_attack 30
+enemy_magic_attack 0
+
